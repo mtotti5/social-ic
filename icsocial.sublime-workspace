@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LOC",
+				"LOCAL"
+			],
+			[
+				"j",
+				"jquery-ui-1"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"requ",
+				"requires_login"
+			],
+			[
+				"au",
+				"authenticate"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"U",
+				"UserManager  (class)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "icsocial/icsocial/settings.py",
+			"settings":
+			{
+				"buffer_size": 5218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "icsocial/icsocial/urls.py",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"li",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"l",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"lines",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snippet:ht",
+				"Snippet: html"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"i",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"snippet:h",
+				"Snippet: html"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"dja",
+				"Set Syntax: Python Django"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Snippet: AutoField (mauto)"
+			],
+			[
+				"django",
+				"Set Syntax: Python Django"
+			],
+			[
+				"python",
+				"Set Syntax: Python Django"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Lines",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yiannis/Desktop/icsocial_tb/index.html",
+		"/home/yiannis/Desktop/djpizza/pizza_app/pizza_app/urls.py",
+		"/home/yiannis/Desktop/djpizza/pizza_app/pizza_app/settings.py",
+		"/home/yiannis/.config/sublime-text-2/Packages/User/sftp_servers/yk,gs",
+		"/home/yiannis/Desktop/djpizza/pizza_app/pizzas/models.py",
+		"/home/yiannis/Desktop/djpizza/pizza_app/pizza_app/views.py",
+		"/home/yiannis/Desktop/djpizza/pizza_app/pizza_app/pizzA.sublime-workspace",
+		"/home/yiannis/Desktop/grp/index.html",
+		"/home/yiannis/Desktop/ch1/ch1.cpp",
+		"/home/yiannis/Desktop/mdes/website/static/js/init.js",
+		"/home/yiannis/Desktop/mdes/website/register.html",
+		"/home/yiannis/Desktop/mdes/website/login.html",
+		"/home/yiannis/Desktop/djm/game/models.py",
+		"/home/yiannis/Desktop/djm/djm/urls.py",
+		"/home/yiannis/Desktop/djm/djm/views.py",
+		"/home/yiannis/Desktop/djm/extra/templates/index.html",
+		"/home/yiannis/Desktop/djm/game/tests.py",
+		"/home/yiannis/Desktop/djm/extra/templates/register.html",
+		"/home/yiannis/Desktop/djm/extra/INTEGRATE",
+		"/home/yiannis/Desktop/djm/djm/settings.py",
+		"/home/yiannis/Desktop/djm/djm/forms.py",
+		"/home/yiannis/Desktop/djm/extra/templates/login.html",
+		"/home/yiannis/Desktop/djm/game/views.py",
+		"/home/yiannis/Desktop/djm/manage.py",
+		"/home/yiannis/Desktop/djm/djm/wsgi.py",
+		"/home/yiannis/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/yiannis/.config/sublime-text-2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/home/yiannis/Desktop/djm/djm/djm/settings.py",
+		"/home/yiannis/Desktop/djm/djm/manage.py",
+		"/home/yiannis/Desktop/djm/djm/djm/urls.py",
+		"/home/yiannis/.config/sublime-text-2/Packages/User/Python (Django).sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LOCAL",
+			"Local",
+			"STATIC",
+			"STATICFILES_DIR",
+			"admin",
+			"ADMIN_MEDIA",
+			"Apps",
+			"',\n",
+			"csrf",
+			"core",
+			"cor",
+			"core",
+			"CSRF",
+			"crsf",
+			"core.",
+			"csrf",
+			"site",
+			"URL",
+			"admin",
+			"django/contrib/admin/static/admin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "icsocial/icsocial/settings.py",
+					"settings":
+					{
+						"buffer_size": 5218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2356,
+								2356
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1116.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "icsocial/icsocial/urls.py",
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ur",
+				"icsocial/icsocial/urls.py"
+			],
+			[
+				"se",
+				"icsocial/icsocial/settings.py"
+			],
+			[
+				"urls",
+				"pizza_app/urls.py"
+			],
+			[
+				"mo",
+				"pizza_app/pizzA.sublime-workspace"
+			],
+			[
+				"views",
+				"pizza_app/views.py"
+			],
+			[
+				"pizzas/",
+				"pizzas/models.py"
+			],
+			[
+				"vi",
+				"pizza_app/views.py"
+			],
+			[
+				"set",
+				"pizza_app/settings.py"
+			],
+			[
+				"vie",
+				"pizza_app/views.py"
+			],
+			[
+				"login",
+				"extra/templates/login.html"
+			],
+			[
+				"in",
+				"extra/templates/index.html"
+			],
+			[
+				"create",
+				"extra/templates/game/create.html"
+			],
+			[
+				"open",
+				"extra/templates/game/opengames.html"
+			],
+			[
+				"form",
+				"djm/forms.py"
+			],
+			[
+				"register",
+				"extra/templates/register.html"
+			],
+			[
+				"index",
+				"extra/templates/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/yiannis/Desktop/pizzApp/pizza.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
