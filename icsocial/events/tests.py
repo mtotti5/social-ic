@@ -11,5 +11,5 @@ class SimpleTest(unittest.TestCase):
 
     def test_get_attend(self):
     	Attend.objects.create(attendee=1, event_id=2)
-    	self.assertEqual(get_event_count(1), 0)
+    	self.assertEqual(get_event_count(1), 1)
 
