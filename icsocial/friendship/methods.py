@@ -18,5 +18,5 @@ def unfollow(id1, id2):
 def follow(id1, id2):	
     b = Friend.objects.create(id_user=id_user1,id_follower=id_user2)
     
-
+	
 
