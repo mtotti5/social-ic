@@ -16,7 +16,7 @@ DATABASES = {
         'NAME': 'icsocial_db',
         'USER': 'postgres', 
         'PASSWORD': 'postgres',
-        'HOST': '/tmp/',            
+        'HOST': '',            
         'PORT': '',
     }
 }
