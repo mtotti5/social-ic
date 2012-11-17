@@ -1,16 +1,15 @@
-"""
-This file demonstrates writing tests using the unittest module. These will pass
-when you run "manage.py test".
-
-Replace this with more appropriate tests for your application.
-"""
-
 from django.test import TestCase
+from django.utils import unittest
+from events.models import *
+from events.methods import *
 
 
-class SimpleTest(TestCase):
-    def test_basic_addition(self):
-        """
-        Tests that 1 + 1 always equals 2.
-        """
-        self.assertEqual(1 + 1, 2)
+class SimpleTest(unittest.TestCase):
+    def test_is_added(self):
+    	Event.objects.create(title='Group Meeting', location='huxley', date='2012-03-03', time='10:30', description='Work on our project.')
+    	self.assertEqual(get_event_count(0), 1)
+
+    def test_get_attend(self):
+    	Attend.objects.create(attendee=1, event_id=2)
+    	self.assertEqual(get_event_count(1), 0)
+
