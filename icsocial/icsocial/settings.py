@@ -124,6 +124,8 @@ INSTALLED_APPS = (
     'location',
     'events',
     'search',
+    'profiles',
+    'comments',
     )
 
 # A sample logging configuration. The only tangible logging
