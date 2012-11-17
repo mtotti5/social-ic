@@ -120,6 +120,8 @@ INSTALLED_APPS = (
     'django.contrib.admindocs',
     'friendship',
     'location',
+    'events',
+    'search',
     )
 
 # A sample logging configuration. The only tangible logging
